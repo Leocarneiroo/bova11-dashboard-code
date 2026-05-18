@@ -70,7 +70,7 @@ Também ficaram fora deste espelho:
 
 ## Repositórios relacionados
 
-- Dashboard publicado: https://github.com/Leocarneiroo/bova11-dashboard
+- Dashboard publicado: [https://github.com/Leocarneiroo/bova11-dashboard](https://leocarneiroo.github.io/bova11-dashboard/)
 - Código privado/original de trabalho: mantido separadamente
 
 ## Objetivo deste espelho público
